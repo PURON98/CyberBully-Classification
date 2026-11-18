@@ -1,0 +1,1 @@
+Twitter cyberbullying detection using NLP and machine learning. Multi-class classification (age, ethnicity, gender, religion, general harassment) with TF-IDF vectorization, multiple algorithms (Logistic Regression, SVM, Random Forest, Naive Bayes), and comprehensive evaluation.
